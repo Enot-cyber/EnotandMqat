@@ -5,3 +5,10 @@ C:\Users\Александр\source\repos\Enot-cyber\EnotandMqat\Unguard\bin\Debu
 C:\Users\Александр\source\repos\Enot-cyber\EnotandMqat\Unguard\bin\Debug\Unguard.pdb
 C:\Users\Александр\source\repos\Enot-cyber\EnotandMqat\Unguard\obj\Debug\Unguard.exe
 C:\Users\Александр\source\repos\Enot-cyber\EnotandMqat\Unguard\obj\Debug\Unguard.pdb
+F:\GitClone\V2\EnotandMqat\Unguard\bin\Debug\Unguard.exe.config
+F:\GitClone\V2\EnotandMqat\Unguard\bin\Debug\Unguard.exe
+F:\GitClone\V2\EnotandMqat\Unguard\bin\Debug\Unguard.pdb
+F:\GitClone\V2\EnotandMqat\Unguard\obj\Debug\Unguard.csprojAssemblyReference.cache
+F:\GitClone\V2\EnotandMqat\Unguard\obj\Debug\Unguard.csproj.CoreCompileInputs.cache
+F:\GitClone\V2\EnotandMqat\Unguard\obj\Debug\Unguard.exe
+F:\GitClone\V2\EnotandMqat\Unguard\obj\Debug\Unguard.pdb
