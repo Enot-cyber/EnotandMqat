@@ -1,0 +1,7 @@
+C:\Users\Александр\source\repos\Enot-cyber\EnotandMqat\Unguard\obj\Debug\Unguard.csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\Enot-cyber\EnotandMqat\Unguard\obj\Debug\Unguard.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\Enot-cyber\EnotandMqat\Unguard\bin\Debug\Unguard.exe.config
+C:\Users\Александр\source\repos\Enot-cyber\EnotandMqat\Unguard\bin\Debug\Unguard.exe
+C:\Users\Александр\source\repos\Enot-cyber\EnotandMqat\Unguard\bin\Debug\Unguard.pdb
+C:\Users\Александр\source\repos\Enot-cyber\EnotandMqat\Unguard\obj\Debug\Unguard.exe
+C:\Users\Александр\source\repos\Enot-cyber\EnotandMqat\Unguard\obj\Debug\Unguard.pdb
