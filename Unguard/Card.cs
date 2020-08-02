@@ -11,12 +11,12 @@ namespace Deck
     {
         private
             int CardNum;
-            bool CardStatus; //false is card not on deck
+            bool IsCardOnADeck; //false is card not on deck
         public
         Card()
             {
             this -> CardNum = 0;
-            this -> CardStatus = true;
+            this -> IsCardOnADeck = true;
         }
         void SetCardNum( int numerical_arg){}
         void SetCardStatus(bool boolean_arg ){}
